@@ -23,5 +23,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.80" level="application_server_libraries" />
     <orderEntry type="library" name="commons-fileupload-1.2.2" level="project" />
+    <orderEntry type="library" name="mysql-connector-j-8.3.0" level="project" />
   </component>
 </module>
